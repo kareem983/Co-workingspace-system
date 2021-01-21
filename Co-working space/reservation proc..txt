@@ -1,0 +1,54 @@
+create proc reservationf
+(
+@p_id bigint,@sd date,@ed date,@res_id bigint,@roo_id int,@ex_time time
+
+)
+as 
+begin
+
+update reservation
+set start_date=@sd,end_date=@ed
+where  reservation_id=@res_id
+
+update feature
+set expand_rent=@ex_time 
+where room_id=@roo_id
+end
+exec reservationf (15,"25/12/2000","10/12/2000",15,5:00);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+create proc logins
+@username nvarchar (50),  
+@pass nvarchar(50),
+@type nvarchar (50),
+@@NAM nvarchar(50) output
+as 
+select @@NAM=visitor_name
+from dbo.person
+where visitor_name=@username
+insert into person(visitor_name,visitor_password)values(@username,@pass)
+declare  @dis nvarchar(50)
+exec logins @username ='nada',@pass=1230,@type=visitor,@@NAM=@dis output
+if (@dis!='')
+select 'welcome : '+cast (@dis  as nvarchar(50))
+else print 'please sign up'
+
+
+
+
+
+
+
+

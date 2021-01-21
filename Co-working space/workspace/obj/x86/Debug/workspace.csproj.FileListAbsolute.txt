@@ -1,0 +1,17 @@
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\bin\x86\Debug\workspace.exe.config
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.AddRoom.resources
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.add_staff.resources
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.cancel_bookingcs.resources
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.complain.resources
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.complain_answer.resources
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.feedback.resources
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.Form1.resources
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.Form2.resources
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.Form3.resources
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.Form4.resources
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.Form5.resources
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.Properties.Resources.resources
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.Reservation.resources
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.TEMP.resources
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.viewres.resources
+C:\Users\Dell\Desktop\CoWorkingSystem-master\workspace\obj\x86\Debug\workspace.csproj.GenerateResource.Cache
